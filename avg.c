@@ -13,7 +13,7 @@ int main() {
         sum += number;
     }
     
-    average = sum / n;
+    average = sum / n;//code for averaging
     
     printf("Average: %.2f\n", average);
     
