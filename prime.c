@@ -5,7 +5,7 @@ int main() {
 
     printf("Enter a positive integer: ");
     scanf("%d", &num);
-
+//code to find prime number
     if (num <= 1) {
         printf("The number is not prime.\n");
     } else {
